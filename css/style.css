@@ -1,0 +1,28 @@
+body {
+    margin: 20vh 25%; 
+    background: #fc0; 
+    position: relative;
+/*     border: red solid 2px; */
+}
+
+.block {
+  width: 100%;
+  margin: 20vh 25%;
+  margin: 0 auto; 
+/*   border: solid 2px; */
+  padding-bottom: 700px;
+}
+
+img {
+  position: absolute;
+  transform-origin:  262px 301px;
+  margin: 0 25%;
+/*   border: solid 2px; */
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.2em;
+  color: #303b34;
+  margin: 0;
+}
